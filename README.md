@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python DevOps Mini NOC 🚀
 
 A showcase project inspired by *Python for DevOps* book.  
@@ -15,3 +16,6 @@ It demonstrates automation, monitoring, CI/CD, and infrastructure-as-code.
 ```bash
 pip install -r app/requirements.txt
 python app/app.py
+=======
+# python-devops-mini-noc
+>>>>>>> 20d25409204282ae1fea02e599f0a8a28fa2f5ad
